@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KaraokeHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="home_array">
+        <item>
+            Hold on, to me as we go
+        </item>
+        <item>
+            As we roll down this unfamiliar road
+        </item>
+        <item>
+            And although this wave is stringing us along
+        </item>
+        <item>
+            Just know you’re not alone
+        </item>
+        <item>
+            \'Cause I’m going to make this place your home
+        </item>                
+        <item>
+            Settle down, it\'ll all be clear
+        </item>
+        <item>
+            Don\'t pay no mind to the demons
+        </item>
+        <item>
+            They fill you with fear
+        </item>
+        <item>
+            The trouble it might drag you down
+        </item>
+        <item>
+            Just know you’re not alone
+        </item> 
+        <item>
+            If you get lost, you can always be found
+        </item> 
+        <item>
+            \'Cause I’m going to make this place your home
+        </item> 
+        <item>
+            Settle down, it\'ll all be clear
+        </item> 
+        <item>
+            Don\'t pay no mind to the demons
+        </item> 
+        <item>
+            They fill you with fear
+        </item> 
+        <item>
+            The trouble it might drag you down
+        </item> 
+        <item>
+            If you get lost, you can always be found
+        </item> 
+        <item>
+            Just know you’re not alone
+        </item> 
+        <item>
+            \'Cause I’m going to make this place your home
+        </item>                                                                                                                
+    </string-array>
+    
+        <string-array name="over_you_array">
+        <item>
+            Weather man said it\'s gonna snow
+        </item>
+        <item>
+            By now I should be used to the cold
+        </item>
+        <item>
+            Mid-February shouldn\'t be so scary
+        </item>
+        <item>
+            It was only December
+        </item>
+        <item>
+            I still remember the presents, the tree, you and me
+        </item>                
+        <item>
+            But you went away
+        </item>
+        <item>
+            How dare you?
+        </item>
+        <item>
+            I miss you
+        </item>
+        <item>
+            They say I\'ll be okay
+        </item>
+        <item>
+            But I\'m not going to ever get over you
+        </item> 
+        <item>
+           Cause you sing along
+        </item> 
+        <item>
+            With every song
+        </item> 
+        <item>
+           I know you didn\'t mean to give them to me
+        </item> 
+        <item>
+            But you went away
+        </item> 
+        <item>
+            How dare you?
+        </item> 
+        <item>
+          I miss you
+        </item> 
+        <item>
+            They say I\'ll be okay
+        </item> 
+        <item>
+            But I\'m not going to ever get over you
+        </item> 
+        <item>
+            It really sinks in you know when I see it in stone
+        </item>                                                                                                                
+    </string-array>
+    
+    
+    
+
+</resources>
